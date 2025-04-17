@@ -11,8 +11,7 @@ def rename_and_copy_images():  # No source_folder argument
     """
     Organizes .jpg and .tif files from subfolders of a *hardcoded* source folder.
     """
-
-    # Hardcoded paths (REPLACE THESE WITH YOUR ACTUAL PATHS)
+    
     source_folder = "C:/Users/lochana.marasingha/Downloads/Crop-Residue/images_512/label/residue_background/Ritzville3-WheatFallow1pass1m20220329"
     training_outputs = "C:/Users/lochana.marasingha/Downloads/Crop-Residue/Training/output"
 
